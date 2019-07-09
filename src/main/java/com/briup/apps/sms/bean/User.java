@@ -2,7 +2,7 @@ package com.briup.apps.sms.bean;
 /**
  * 校园信息
  * */
-public class School {
+public class User {
 	private Long id;
 	private String realname;
 	private String telephone;
