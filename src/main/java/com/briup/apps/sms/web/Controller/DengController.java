@@ -1,5 +1,5 @@
 package com.briup.apps.sms.web.Controller;
 
-public class Shijq {
+public class DengController {
 
 }
