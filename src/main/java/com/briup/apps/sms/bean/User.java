@@ -9,7 +9,7 @@ public class User {
 	private String password;
 	private String student_no;
 	private String gender;
-	private  long  clazz_id;
+	private long clazz_id;
 	
 	public Long getId() {
 		return id;
